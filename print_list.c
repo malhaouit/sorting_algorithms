@@ -2,7 +2,7 @@
 #include "sort.h"
 
 /**
- * print_list - Print a list of integers
+ * print_list - Prints a list of integers
  *
  * @list: The list to be printed
  */
