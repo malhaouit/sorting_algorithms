@@ -80,7 +80,7 @@ void quick_sort(int *array, size_t size)
  * @h: The ending index of the partition.
  * @size: Size of @array.
  *
- * Return: Nothi.
+ * Return: Nothing.
  */
 void quick_sort_helper(int *array, size_t l, size_t h, size_t size)
 {
